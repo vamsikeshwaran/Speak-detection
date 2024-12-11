@@ -1,1 +1,1 @@
-# Speak detection using mediapipe and opencv
+# Speak detection using Mediapipe and Opencv
